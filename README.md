@@ -69,7 +69,7 @@ This repository began to occupy an obscenely large amount of information. In thi
 * [linux-sh](https://github.com/maximalisimus/linux-sh), [git-url](https://github.com/maximalisimus/linux-sh.git)
 * [Else_Info/Dockers](https://github.com/maximalisimus/Docker-notes), [git-url](https://github.com/maximalisimus/Docker-notes.git)
 * [Else_Info/AppImageUpdate](https://github.com/maximalisimus/AppImage-Update), [git-url](https://github.com/maximalisimus/AppImage-Update.git)
-* [else-linux](https://github.com/maximalisimus/else-linux), [git-url](https://github.com/maximalisimus/else-linux.git) (Cmake, Else_Info, Linux_Problem, linux-vhd, Package_Training, QT_Creator_ReedMe, win-7-gpt, Wine)
+* [else-linux](https://github.com/maximalisimus/else-linux), [git-url](https://github.com/maximalisimus/else-linux.git), (Cmake, Else_Info, Linux_Problem, linux-vhd, Package_Training, QT_Creator_ReedMe, win-7-gpt, Wine)
 * [Qemu](https://github.com/maximalisimus/qemu-notes), [git-url](https://github.com/maximalisimus/qemu-notes.git)
 * [GIT](https://github.com/maximalisimus/git-notes), [git-url](https://github.com/maximalisimus/git-notes.git)
 
