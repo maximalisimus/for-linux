@@ -66,6 +66,7 @@ This repository began to occupy an obscenely large amount of information. In thi
 	* [for-linux-3](https://github.com/maximalisimus/for-linux-3), [git-url](https://github.com/maximalisimus/for-linux-3.git)
 	* [for-linux-4](https://github.com/maximalisimus/for-linux-4), [git-url](https://github.com/maximalisimus/for-linux-4.git)
 	* [for-linux-5](https://github.com/maximalisimus/for-linux-5), [git-url](https://github.com/maximalisimus/for-linux-5.git)
+* [else-linux](https://github.com/maximalisimus/else-linux), [git-url](https://github.com/maximalisimus/else-linux.git)
 * [linux-sh](https://github.com/maximalisimus/linux-sh), [git-url](https://github.com/maximalisimus/linux-sh.git)
 * [Else_Info/Dockers](https://github.com/maximalisimus/Docker-notes), [git-url](https://github.com/maximalisimus/Docker-notes.git)
 * [Else_Info/AppImageUpdate](https://github.com/maximalisimus/AppImage-Update), [git-url](https://github.com/maximalisimus/AppImage-Update.git)
