@@ -2,6 +2,8 @@
 
 ****************************
 
+<a name="Oglavlenie"></a>
+
 ## Contents (Оглавление).
 
 1. [Информация](#RusInfo) (Информация на русском. Information in Russian.)
@@ -11,11 +13,9 @@
 
 ****************************
 
-## Информация
+## <a name="RusInfo">Информация</a>
 
 **Информация на русском (Information in Russian).**
-
-[:arrow_up:Информация](#RusInfo)
 
 Данный репозиторий содержит информацию по Linux системам, которая сохранена в файлах, для быстрого решения известных автору большинства вопросов и проблем связанных с Linux-ами посредством как терминала, так и графически при помощи мыши.
 
@@ -28,13 +28,13 @@
 
 **Обратите внимание, что информация немного разрознена.**
 
-****************************
+---
 
-## Information
+[К оглавлению](#Oglavlenie)
+
+## <a name="EngInfo">Информация</a>
 
 **Информация на английском (Information in English).**
-
-[:arrow_up:Information](#EngInfo)
 
 This repository contains information on Linux systems, which is stored in files, to quickly solve most of the issues and problems related to Linux, known to the author, both through the terminal and graphically with the mouse.
 
@@ -47,13 +47,13 @@ The information is contained in the following form:
 
 **Please note that the information is a bit scattered.**
 
-****************************
+---
 
-## Repository
+[К оглавлению](#Oglavlenie)
+
+## <a name="Repos">Repository</a>
 
 **Описание репозитория (Description of the repository).**
-
-[:arrow_up:Repository](#Repos)
 
 Данный репозиторий стал занимать неприлично большой объем информации. В связи с чем был разделен на несколько отдельных репозиториев. Далее внизу вы можете найти ссылки на интересующие вас папки.
 
@@ -73,13 +73,13 @@ This repository began to occupy an obscenely large amount of information. In thi
 * [Qemu](https://github.com/maximalisimus/qemu-notes), [git-url](https://github.com/maximalisimus/qemu-notes.git)
 * [GIT](https://github.com/maximalisimus/git-notes), [git-url](https://github.com/maximalisimus/git-notes.git)
 
-****************************
+---
 
-## About
+[К оглавлению](#Oglavlenie)
+
+## <a name="About">About</a>
 
 **Обо мне**
-
-[:arrow_up:About](#About)
 
 The author of this development **Shadow**: [maximalisimus](https://github.com/maximalisimus).
 
